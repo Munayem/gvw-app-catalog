@@ -61,7 +61,8 @@
    "genre": "LIFESTYLE",
    "game": false,
    "topics": [
-    "pet"
+    "pet",
+    "reminder"
    ],
    "langs": [
     "en"
@@ -76,7 +77,9 @@
    "game": false,
    "topics": [
     "alarm",
-    "clock"
+    "clock",
+    "reminder",
+    "time"
    ],
    "langs": [
     "en"
