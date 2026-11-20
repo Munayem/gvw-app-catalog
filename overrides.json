@@ -8,5 +8,7 @@
   "com.gvwwebstudio.callbreak": { "titleBn": "কলব্রেক বড় তাস", "shortBn": "৩ কম্পিউটারের সাথে অফলাইন কলব্রেক।", "topics": ["card", "big-cards", "traditional", "trick-taking"], "langs": ["bn", "en", "ne", "hi"] },
   "com.gvwwebstudio.twentynine": { "titleBn": "২৯ আড্ডা: টুয়েন্টি নাইন তাস", "topics": ["card", "traditional", "trick-taking"], "langs": ["bn", "en"] },
   "com.gvwwebstudio.ludo": { "topics": ["board", "traditional"], "langs": ["bn", "en"] },
-  "com.gvwwebstudio.prayertimes": { "topics": ["islamic", "prayer"], "langs": ["bn", "en"] }
+  "com.gvwwebstudio.prayertimes": { "topics": ["islamic", "prayer"], "langs": ["bn", "en"] },
+  "com.gvwwebstudio.petcare": { "topics": ["pet", "reminder"], "langs": ["en"] },
+  "com.gvwwebstudio.sayalarm": { "topics": ["alarm", "clock", "reminder", "time"], "langs": ["en"] }
 }
