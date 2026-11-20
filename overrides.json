@@ -1,0 +1,12 @@
+{
+  "_comment": "Optional hand-made extras per package. Anything here wins over what the script reads from Google Play.",
+  "com.gvwwebstudio.bigcardsolitaire": { "titleBn": "বড় তাসের সলিটেয়ার", "shortBn": "বড়, পরিষ্কার তাসে ক্লনডাইক সলিটেয়ার।", "topics": ["card", "big-cards", "solitaire"], "langs": ["en"] },
+  "com.gvwwebstudio.deshikhela": { "titleBn": "ষোলো গুটি ও বাঘবন্দি", "shortBn": "ঐতিহ্যবাহী বাংলা বোর্ড গেম, অফলাইন।", "topics": ["board", "traditional"], "langs": ["bn", "en"] },
+  "com.gvwwebstudio.banglardurgo": { "titleBn": "বাংলার দুর্গ: যুদ্ধের গেম", "shortBn": "কৌশলের খেলায় বাংলার দুর্গ রক্ষা করুন।", "topics": ["strategy", "traditional"], "langs": ["bn", "en"] },
+  "com.gvwwebstudio.woordje": { "topics": ["word", "puzzle"], "langs": ["nl"] },
+  "com.habiganjapp.amaderhabiganjapps": { "titleBn": "আমাদের হবিগঞ্জ", "shortBn": "হবিগঞ্জের ডিরেক্টরি, দোকান, টিউশনি, ভাড়া ও খবর।", "topics": ["local"], "langs": ["bn"] },
+  "com.gvwwebstudio.callbreak": { "titleBn": "কলব্রেক বড় তাস", "shortBn": "৩ কম্পিউটারের সাথে অফলাইন কলব্রেক।", "topics": ["card", "big-cards", "traditional", "trick-taking"], "langs": ["bn", "en", "ne", "hi"] },
+  "com.gvwwebstudio.twentynine": { "titleBn": "২৯ আড্ডা: টুয়েন্টি নাইন তাস", "topics": ["card", "traditional", "trick-taking"], "langs": ["bn", "en"] },
+  "com.gvwwebstudio.ludo": { "topics": ["board", "traditional"], "langs": ["bn", "en"] },
+  "com.gvwwebstudio.prayertimes": { "topics": ["islamic", "prayer"], "langs": ["bn", "en"] }
+}
