@@ -1,0 +1,133 @@
+{
+ "updated": "2026-11-20",
+ "apps": [
+  {
+   "id": "com.habiganjapp.amaderhabiganjapps",
+   "title": "Amader Habiganj - Habiganj App",
+   "short": "Habiganj directory: emergency numbers, hospitals, bus, news, market & tuition",
+   "icon": "https://play-lh.googleusercontent.com/txJfMtGB5vE1VlRSJH9YYWj0Me6wfead6Skc6iJmYsunOKmteWd3YAlgkdRSZWb89rHXIv_SYrjGUPyNYc4BiQ=s128",
+   "genre": "BOOKS_AND_REFERENCE",
+   "game": false,
+   "topics": [
+    "local"
+   ],
+   "langs": [
+    "bn"
+   ],
+   "titleBn": "আমাদের হবিগঞ্জ",
+   "shortBn": "হবিগঞ্জের ডিরেক্টরি, দোকান, টিউশনি, ভাড়া ও খবর।"
+  },
+  {
+   "id": "com.gvwwebstudio.banglardurgo",
+   "title": "Banglar Durgo: Fort War Game",
+   "short": "Build your Bengal fort, train an army & win strategy battles.",
+   "icon": "https://play-lh.googleusercontent.com/jzkSMfF6f4GZLxDwZYh7NPEOpjq3mvlEejgH3ISebRWO5y1F-TGiH-KMTf8qjJKkX3bA4HUGYj799oateI1jcAU=s128",
+   "genre": "GAME_STRATEGY",
+   "game": true,
+   "topics": [
+    "strategy",
+    "traditional"
+   ],
+   "langs": [
+    "bn",
+    "en"
+   ],
+   "titleBn": "বাংলার দুর্গ: যুদ্ধের গেম",
+   "shortBn": "কৌশলের খেলায় বাংলার দুর্গ রক্ষা করুন।"
+  },
+  {
+   "id": "com.gvwwebstudio.bigcardsolitaire",
+   "title": "Big Card Solitaire: Patience",
+   "short": "Huge, easy-to-read cards.",
+   "icon": "https://play-lh.googleusercontent.com/pkgli9qnJu1xLo-j7feg4nibJkks-qRVmEmwHZI8od-4xPdIdJsY0gVLuQrdx872yUq-s9yPazWOJPR6E5BCBk8=s128",
+   "genre": "GAME_CARD",
+   "game": true,
+   "topics": [
+    "card",
+    "big-cards",
+    "solitaire"
+   ],
+   "langs": [
+    "en"
+   ],
+   "titleBn": "বড় তাসের সলিটেয়ার",
+   "shortBn": "বড়, পরিষ্কার তাসে ক্লনডাইক সলিটেয়ার।"
+  },
+  {
+   "id": "com.gvwwebstudio.petcare",
+   "title": "PetCare: Vet Pet Reminders",
+   "short": "Reminders for pet vaccines, flea, worm & meds.",
+   "icon": "https://play-lh.googleusercontent.com/1t7eyQCgz2kCmydwE5Rv98zu_-lhycYVEc_ecpcIBr5DRs3S_UUdqg-iW_xSBocbD7qlvaxP0eMh0Nqs5GC0XQ=s128",
+   "genre": "LIFESTYLE",
+   "game": false,
+   "topics": [
+    "pet"
+   ],
+   "langs": [
+    "en"
+   ]
+  },
+  {
+   "id": "com.gvwwebstudio.sayalarm",
+   "title": "Say Alarm: Voice Alarm Clock",
+   "short": "Set alarms by voice: \"5 alarms, 10 minutes apart, 2 hours before 4 pm.\"",
+   "icon": "https://play-lh.googleusercontent.com/4oO9dYEocRKjPXM7JH2nkBUNHyThJAyrVUbET2AFujQPDny-DUpRw4qmEa4VK4Kw7OtObg9Zm20DG1ecFDzOkg=s128",
+   "genre": "TOOLS",
+   "game": false,
+   "topics": [
+    "alarm",
+    "clock"
+   ],
+   "langs": [
+    "en"
+   ]
+  },
+  {
+   "id": "com.gvwwebstudio.deshikhela",
+   "title": "Sholo Guti & Bagh Bandi Game",
+   "short": "Sholo Guti (16 Bead) & Bagh Bandi tiger-goat game, offline vs computer or friend",
+   "icon": "https://play-lh.googleusercontent.com/R1bKIAF2UyILGvMC2AxxMXDZ1sNmdCPWzqCIB6CftNPUlo8-SO3AU3VJD0arKXVBpB6PXhx6PZYpK76awNYzww=s128",
+   "genre": "GAME_BOARD",
+   "game": true,
+   "topics": [
+    "board",
+    "traditional"
+   ],
+   "langs": [
+    "bn",
+    "en"
+   ],
+   "titleBn": "ষোলো গুটি ও বাঘবন্দি",
+   "shortBn": "ঐতিহ্যবাহী বাংলা বোর্ড গেম, অফলাইন।"
+  },
+  {
+   "id": "com.aistudio.ukclockwidget.london",
+   "title": "UK Time Widget – London Clock",
+   "short": "See UK London time on your home screen, with AM/PM and automatic GMT/BST.",
+   "icon": "https://play-lh.googleusercontent.com/xnY0I2EYcDLSJwdeYtiC5nW34XEeRtMMoXMe6tviiJgtoT6QaDMvW97WSN7I-SZgREyaNksjAsrFcvSCN8Vp-w=s128",
+   "genre": "TOOLS",
+   "game": false,
+   "topics": [
+    "clock"
+   ],
+   "langs": [
+    "en"
+   ]
+  },
+  {
+   "id": "com.gvwwebstudio.woordje",
+   "title": "Woordje: Dutch Word Puzzle",
+   "short": "Daily Dutch word game: guess the 5-letter word in 6 tries.",
+   "icon": "https://play-lh.googleusercontent.com/wm8sC6vTlKljo5XK_4Ocu-7GNvwJtAx-lcTuqUNVdHOW780GMb6PVpPrnSU6US6ws5ndptewRZ0BzpRZr2Ki=s128",
+   "genre": "GAME_WORD",
+   "game": true,
+   "topics": [
+    "word",
+    "puzzle"
+   ],
+   "langs": [
+    "nl"
+   ]
+  }
+ ]
+}
