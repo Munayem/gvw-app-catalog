@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "apps": [
   {
    "id": "com.habiganjapp.amaderhabiganjapps",
@@ -80,6 +80,21 @@
     "clock",
     "reminder",
     "time"
+   ],
+   "langs": [
+    "en"
+   ]
+  },
+  {
+   "id": "com.gvwwebstudio.iftarsehri",
+   "title": "Sehri Iftar Alarm & Namaz Time",
+   "short": "Sehri & iftar times for your place, with alarms before iftar and sehri ends.",
+   "icon": "https://play-lh.googleusercontent.com/DaXF6vEmJNtV7eeqdiE2qutIyo6hdQh3aOE1N_A9mPxX1Y068LjJY2yNgrlYKoGmEpvKpj_V5Pdj9o7iI5T0wQ=s128",
+   "genre": "LIFESTYLE",
+   "game": false,
+   "topics": [
+    "islamic",
+    "alarm"
    ],
    "langs": [
     "en"
