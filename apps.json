@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "apps": [
+  {
+   "id": "com.gvwwebstudio.twentynine",
+   "title": "২৯ আড্ডা: টুয়েন্টি নাইন তাস",
+   "short": "Offline 29 Cards: Play with your friend Bot, Hidden Colors, Pairs, Doubles – in Bengali",
+   "icon": "https://play-lh.googleusercontent.com/lOEOLXDT4loplGu_3710gcRNsdKrjlWiliVRZ8KGSVhT8X6Bk20RR5e9wyJ8Jromy-7mV3GLX8fG4xedQFqIPg=s128",
+   "genre": "GAME_CARD",
+   "game": true,
+   "topics": [
+    "card",
+    "traditional",
+    "trick-taking"
+   ],
+   "langs": [
+    "bn",
+    "en"
+   ],
+   "titleBn": "২৯ আড্ডা: টুয়েন্টি নাইন তাস"
+  },
   {
    "id": "com.habiganjapp.amaderhabiganjapps",
    "title": "Amader Habiganj - Habiganj App",
@@ -54,6 +72,22 @@
    "shortBn": "বড়, পরিষ্কার তাসে ক্লনডাইক সলিটেয়ার।"
   },
   {
+   "id": "com.gvwwebstudio.ludo",
+   "title": "Ludo Saathi: Offline Ludo",
+   "short": "Offline Ludo with fair dice, smart bots and team mode.",
+   "icon": "https://play-lh.googleusercontent.com/wEwZbTo6z3HmMl03QoCHglGc6DoeOVKEzBU6finBOAzYwWgLk5pN_WzACOtdHBZRsNMQ1ir9gTXFTipHjy6JlA=s128",
+   "genre": "GAME_BOARD",
+   "game": true,
+   "topics": [
+    "board",
+    "traditional"
+   ],
+   "langs": [
+    "bn",
+    "en"
+   ]
+  },
+  {
    "id": "com.gvwwebstudio.petcare",
    "title": "PetCare: Vet Pet Reminders",
    "short": "Reminders for pet vaccines, flea, worm & meds.",
@@ -65,6 +99,22 @@
     "reminder"
    ],
    "langs": [
+    "en"
+   ]
+  },
+  {
+   "id": "com.gvwwebstudio.prayertimes",
+   "title": "Salah Lite: Prayer Times Qibla",
+   "short": "Accurate offline prayer times, Qibla compass, tasbih and widget.",
+   "icon": "https://play-lh.googleusercontent.com/xY4krw_GbSzyXmhf8yk7hXZw7soKrvBMruD2I--0-2vTWCT7EYZzscgpQkptF8VdU8cMIgHZjHXtHnMaXA9Dvg=s128",
+   "genre": "LIFESTYLE",
+   "game": false,
+   "topics": [
+    "islamic",
+    "prayer"
+   ],
+   "langs": [
+    "bn",
     "en"
    ]
   },
@@ -117,20 +167,6 @@
    ],
    "titleBn": "ষোলো গুটি ও বাঘবন্দি",
    "shortBn": "ঐতিহ্যবাহী বাংলা বোর্ড গেম, অফলাইন।"
-  },
-  {
-   "id": "com.aistudio.ukclockwidget.london",
-   "title": "UK Time Widget – London Clock",
-   "short": "See UK London time on your home screen, with AM/PM and automatic GMT/BST.",
-   "icon": "https://play-lh.googleusercontent.com/xnY0I2EYcDLSJwdeYtiC5nW34XEeRtMMoXMe6tviiJgtoT6QaDMvW97WSN7I-SZgREyaNksjAsrFcvSCN8Vp-w=s128",
-   "genre": "TOOLS",
-   "game": false,
-   "topics": [
-    "clock"
-   ],
-   "langs": [
-    "en"
-   ]
   },
   {
    "id": "com.gvwwebstudio.woordje",
