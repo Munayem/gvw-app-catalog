@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "apps": [
   {
    "id": "com.gvwwebstudio.twentynine",
@@ -54,22 +54,26 @@
    "shortBn": "কৌশলের খেলায় বাংলার দুর্গ রক্ষা করুন।"
   },
   {
-   "id": "com.gvwwebstudio.bigcardsolitaire",
-   "title": "Big Card Solitaire: Patience",
-   "short": "Huge, easy-to-read cards.",
-   "icon": "https://play-lh.googleusercontent.com/pkgli9qnJu1xLo-j7feg4nibJkks-qRVmEmwHZI8od-4xPdIdJsY0gVLuQrdx872yUq-s9yPazWOJPR6E5BCBk8=s128",
+   "id": "com.gvwwebstudio.callbreak",
+   "title": "Callbreak Big Cards: Offline",
+   "short": "Classic Callbreak vs 3 smart bots.",
+   "icon": "https://play-lh.googleusercontent.com/cEElip-NWQ95wDX-mh3hkHh4DnL9C1dO7VQnA767ftBTTM3e-MRj3B6tBAzRL7Az5_IIIqTRBzLslccbsxGaZeo=s128",
    "genre": "GAME_CARD",
    "game": true,
    "topics": [
     "card",
     "big-cards",
-    "solitaire"
+    "traditional",
+    "trick-taking"
    ],
    "langs": [
-    "en"
+    "bn",
+    "en",
+    "ne",
+    "hi"
    ],
-   "titleBn": "বড় তাসের সলিটেয়ার",
-   "shortBn": "বড়, পরিষ্কার তাসে ক্লনডাইক সলিটেয়ার।"
+   "titleBn": "কলব্রেক বড় তাস",
+   "shortBn": "৩ কম্পিউটারের সাথে অফলাইন কলব্রেক।"
   },
   {
    "id": "com.gvwwebstudio.ludo",
@@ -151,36 +155,34 @@
    ]
   },
   {
-   "id": "com.gvwwebstudio.deshikhela",
-   "title": "Sholo Guti & Bagh Bandi Game",
-   "short": "Sholo Guti (16 Bead) & Bagh Bandi tiger-goat game, offline vs computer or friend",
-   "icon": "https://play-lh.googleusercontent.com/R1bKIAF2UyILGvMC2AxxMXDZ1sNmdCPWzqCIB6CftNPUlo8-SO3AU3VJD0arKXVBpB6PXhx6PZYpK76awNYzww=s128",
-   "genre": "GAME_BOARD",
-   "game": true,
+   "id": "com.gvwwebstudio.quranbangla",
+   "title": "কুরআন বাংলা - অডিও ও অর্থ",
+   "short": "Arabic recitation and Bengali meaning in natural voice, read and listen to the entire Quran offline",
+   "icon": "https://play-lh.googleusercontent.com/aVlXuIKecFCR6G5EvYe0L8-hpIhnO1EvtoFjuLH8_8A0M9p3KE3oOCmjJCkibw0OET7dULDMviWKtWR2B-w9=s128",
+   "genre": "BOOKS_AND_REFERENCE",
+   "game": false,
    "topics": [
-    "board",
-    "traditional"
+    "traditional",
+    "islamic"
    ],
    "langs": [
     "bn",
     "en"
-   ],
-   "titleBn": "ষোলো গুটি ও বাঘবন্দি",
-   "shortBn": "ঐতিহ্যবাহী বাংলা বোর্ড গেম, অফলাইন।"
+   ]
   },
   {
-   "id": "com.gvwwebstudio.woordje",
-   "title": "Woordje: Dutch Word Puzzle",
-   "short": "Daily Dutch word game: guess the 5-letter word in 6 tries.",
-   "icon": "https://play-lh.googleusercontent.com/wm8sC6vTlKljo5XK_4Ocu-7GNvwJtAx-lcTuqUNVdHOW780GMb6PVpPrnSU6US6ws5ndptewRZ0BzpRZr2Ki=s128",
-   "genre": "GAME_WORD",
-   "game": true,
+   "id": "com.gvwwebstudio.raillivebd",
+   "title": "রেল লাইভ BD: ট্রেন কোথায়",
+   "short": "Where is the train now, how late is it, when will it arrive — live map, timetable and disembarkation alarm",
+   "icon": "https://play-lh.googleusercontent.com/blWyd3Cnamw0MwJxBZfNw2dDOKDiI1G8L0iwemguY3wrxlw-XNVPFy6gqGgzesWP_BZ2qxCR5xBI9O-Cm-D_AQ=s128",
+   "genre": "TRAVEL_AND_LOCAL",
+   "game": false,
    "topics": [
-    "word",
-    "puzzle"
+    "alarm"
    ],
    "langs": [
-    "nl"
+    "bn",
+    "en"
    ]
   }
  ]
