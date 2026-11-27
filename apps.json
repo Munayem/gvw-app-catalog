@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "apps": [
   {
    "id": "com.gvwwebstudio.twentynine",
@@ -20,6 +20,18 @@
    "titleBn": "২৯ আড্ডা: টুয়েন্টি নাইন তাস"
   },
   {
+   "id": "com.gvwwebstudio.alltools",
+   "title": "All Tools: Torch & Phone Test",
+   "short": "Flashlight, compass, phone tester & 55+ handy tools in one small, fast app.",
+   "icon": "https://play-lh.googleusercontent.com/9FMpnHCzP4OaAaHB7DHt5X6dppMcbfDw14wEcYdqYMSnzDWxDTxXA9YD7b54I1oTwfV9HIJnwFp1jxrA-hMZ-g=s128",
+   "genre": "TOOLS",
+   "game": false,
+   "topics": [],
+   "langs": [
+    "en"
+   ]
+  },
+  {
    "id": "com.habiganjapp.amaderhabiganjapps",
    "title": "Amader Habiganj - Habiganj App",
    "short": "Habiganj directory: emergency numbers, hospitals, bus, news, market & tuition",
@@ -34,24 +46,6 @@
    ],
    "titleBn": "আমাদের হবিগঞ্জ",
    "shortBn": "হবিগঞ্জের ডিরেক্টরি, দোকান, টিউশনি, ভাড়া ও খবর।"
-  },
-  {
-   "id": "com.gvwwebstudio.banglardurgo",
-   "title": "Banglar Durgo: Fort War Game",
-   "short": "Build your Bengal fort, train an army & win strategy battles.",
-   "icon": "https://play-lh.googleusercontent.com/jzkSMfF6f4GZLxDwZYh7NPEOpjq3mvlEejgH3ISebRWO5y1F-TGiH-KMTf8qjJKkX3bA4HUGYj799oateI1jcAU=s128",
-   "genre": "GAME_STRATEGY",
-   "game": true,
-   "topics": [
-    "strategy",
-    "traditional"
-   ],
-   "langs": [
-    "bn",
-    "en"
-   ],
-   "titleBn": "বাংলার দুর্গ: যুদ্ধের গেম",
-   "shortBn": "কৌশলের খেলায় বাংলার দুর্গ রক্ষা করুন।"
   },
   {
    "id": "com.gvwwebstudio.callbreak",
@@ -92,17 +86,15 @@
    ]
   },
   {
-   "id": "com.gvwwebstudio.petcare",
-   "title": "PetCare: Vet Pet Reminders",
-   "short": "Reminders for pet vaccines, flea, worm & meds.",
-   "icon": "https://play-lh.googleusercontent.com/1t7eyQCgz2kCmydwE5Rv98zu_-lhycYVEc_ecpcIBr5DRs3S_UUdqg-iW_xSBocbD7qlvaxP0eMh0Nqs5GC0XQ=s128",
-   "genre": "LIFESTYLE",
+   "id": "com.gvwwebstudio.raillivebd",
+   "title": "Rail Live BD - Train Tracker",
+   "short": "Live Bangladesh Railway train location, delay and arrival time at your station",
+   "icon": "https://play-lh.googleusercontent.com/blWyd3Cnamw0MwJxBZfNw2dDOKDiI1G8L0iwemguY3wrxlw-XNVPFy6gqGgzesWP_BZ2qxCR5xBI9O-Cm-D_AQ=s128",
+   "genre": "TRAVEL_AND_LOCAL",
    "game": false,
-   "topics": [
-    "pet",
-    "reminder"
-   ],
+   "topics": [],
    "langs": [
+    "bn",
     "en"
    ]
   },
@@ -123,23 +115,6 @@
    ]
   },
   {
-   "id": "com.gvwwebstudio.sayalarm",
-   "title": "Say Alarm: Voice Alarm Clock",
-   "short": "Set alarms by voice: \"5 alarms, 10 minutes apart, 2 hours before 4 pm.\"",
-   "icon": "https://play-lh.googleusercontent.com/4oO9dYEocRKjPXM7JH2nkBUNHyThJAyrVUbET2AFujQPDny-DUpRw4qmEa4VK4Kw7OtObg9Zm20DG1ecFDzOkg=s128",
-   "genre": "TOOLS",
-   "game": false,
-   "topics": [
-    "alarm",
-    "clock",
-    "reminder",
-    "time"
-   ],
-   "langs": [
-    "en"
-   ]
-  },
-  {
    "id": "com.gvwwebstudio.iftarsehri",
    "title": "Sehri Iftar Alarm & Namaz Time",
    "short": "Sehri & iftar times for your place, with alarms before iftar and sehri ends.",
@@ -151,6 +126,21 @@
     "alarm"
    ],
    "langs": [
+    "en"
+   ]
+  },
+  {
+   "id": "com.gvwwebstudio.tuitionbd",
+   "title": "Tuitioni: Tuition & Tutor BD",
+   "short": "Find tuition jobs & home tutors in Dhaka, Bangladesh.",
+   "icon": "https://play-lh.googleusercontent.com/oVC_PPYIKz3N9aKo2BMf1btiMFo5IJ-S7PRCCYHFNt2CHwfoHRz4TSm0VxJV5ej7q9icgFJnOV974iBF-M6e=s128",
+   "genre": "EDUCATION",
+   "game": false,
+   "topics": [
+    "local"
+   ],
+   "langs": [
+    "bn",
     "en"
    ]
   },
@@ -171,14 +161,14 @@
    ]
   },
   {
-   "id": "com.gvwwebstudio.raillivebd",
-   "title": "রেল লাইভ BD: ট্রেন কোথায়",
-   "short": "Where is the train now, how late is it, when will it arrive — live map, timetable and disembarkation alarm",
-   "icon": "https://play-lh.googleusercontent.com/blWyd3Cnamw0MwJxBZfNw2dDOKDiI1G8L0iwemguY3wrxlw-XNVPFy6gqGgzesWP_BZ2qxCR5xBI9O-Cm-D_AQ=s128",
-   "genre": "TRAVEL_AND_LOCAL",
+   "id": "com.gvwwebstudio.dhakamapper",
+   "title": "ঢাকা ম্যাপার: মেট্রো, বাস রুট",
+   "short": "When does the metro close, which bus goes where, how much is the fare — all routes in Dhaka in Bengali",
+   "icon": "https://play-lh.googleusercontent.com/x-O5Vk_1o7zPpeKT__As-lExVqSPmk2LJwdVsREgKpsTiAe4dhLiujNy9kXnF3RmJrYZ-W6pxgCm8gsbIXj-nOw=s128",
+   "genre": "MAPS_AND_NAVIGATION",
    "game": false,
    "topics": [
-    "alarm"
+    "traditional"
    ],
    "langs": [
     "bn",
