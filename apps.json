@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "apps": [
   {
    "id": "com.gvwwebstudio.twentynine",
@@ -46,28 +46,6 @@
    ],
    "titleBn": "আমাদের হবিগঞ্জ",
    "shortBn": "হবিগঞ্জের ডিরেক্টরি, দোকান, টিউশনি, ভাড়া ও খবর।"
-  },
-  {
-   "id": "com.gvwwebstudio.callbreak",
-   "title": "Callbreak Big Cards: Offline",
-   "short": "Classic Callbreak vs 3 smart bots.",
-   "icon": "https://play-lh.googleusercontent.com/cEElip-NWQ95wDX-mh3hkHh4DnL9C1dO7VQnA767ftBTTM3e-MRj3B6tBAzRL7Az5_IIIqTRBzLslccbsxGaZeo=s128",
-   "genre": "GAME_CARD",
-   "game": true,
-   "topics": [
-    "card",
-    "big-cards",
-    "traditional",
-    "trick-taking"
-   ],
-   "langs": [
-    "bn",
-    "en",
-    "ne",
-    "hi"
-   ],
-   "titleBn": "কলব্রেক বড় তাস",
-   "shortBn": "৩ কম্পিউটারের সাথে অফলাইন কলব্রেক।"
   },
   {
    "id": "com.gvwwebstudio.ludo",
@@ -170,6 +148,19 @@
    "topics": [
     "traditional"
    ],
+   "langs": [
+    "bn",
+    "en"
+   ]
+  },
+  {
+   "id": "com.gvwwebstudio.seatbhara",
+   "title": "সিট ভাড়া: মেস ও হোস্টেল সিট",
+   "short": "Find mess, hostel, room and sublet seats in Dhaka and across the country, post for free",
+   "icon": "https://play-lh.googleusercontent.com/OeBluli0XPyoq5XRZNZd0IG6tAW_qkkMby-o1X_pH27nn060v8s405cosE_GiWnI7L2guYSQI3lz-URv89Zy=s128",
+   "genre": "HOUSE_AND_HOME",
+   "game": false,
+   "topics": [],
    "langs": [
     "bn",
     "en"
